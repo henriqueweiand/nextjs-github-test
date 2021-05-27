@@ -41,7 +41,7 @@ function UserServer({ data }: UserServerProps) {
 }
 
 export const getServerSideProps: GetServerSideProps = async () => {
-  const user = await api.get("/users/henriqueweiand");
+  const user = await api.get("users/henriqueweiand");
 
   return {
     props: {

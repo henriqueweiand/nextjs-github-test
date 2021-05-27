@@ -41,7 +41,7 @@ function UserStatic({ data }: UserStaticProps) {
 }
 
 export const getStaticProps: GetStaticProps = async () => {
-  const user = await api.get("/users/henriqueweiand");
+  const user = await api.get("users/henriqueweiand");
 
   return {
     props: {
