@@ -27,6 +27,7 @@ export default function Home() {
       <Center>
         <NextLink href="/user-server" passHref>
           <Button
+            marginTop="1rem"
             as="a"
             size="sm"
             fontSize="sm"

@@ -1,11 +1,13 @@
-## Proposta
+# Nextjs-github-test
 
-Make a sperimentation with nextjs
-Realizar algunmas experimentações com Nextjs com:
+![GH-Actions](https://github.com/henriqueweiand/nextjs-github-test/workflows/GH-Actions/badge.svg)
+
+## Proposal
+
+Conduct some experimentation with Nextjs with:
 
 - SSG
 - SSR
-- SWR
 - Unit Tests
 - Integration Tests
 
