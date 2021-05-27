@@ -12,12 +12,14 @@ interface ProfileProps {
 export function Profile({ user }: ProfileProps) {
   return (
     <Stack
+      data-testid="profile"
       direction={["column"]}
       alignItems="center"
       justifyContent="center"
       spacing="0.5rem"
     >
       <Image
+        data-testid="image"
         borderRadius="full"
         boxSize="100px"
         objectFit="cover"

@@ -1,8 +1,12 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Proposta
 
+Make a sperimentation with nextjs
 Realizar algunmas experimentações com Nextjs com:
 
 - SSG
 - SSR
+- SWR
+- Unit Tests
+- Integration Tests
+
+Preview url: https://nextjs-github-test.vercel.app/
